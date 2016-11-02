@@ -10,6 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "analytics-node": "^2.1.0",
     "ejs": "2.4.1",
     "express": "4.13.3"
   },
