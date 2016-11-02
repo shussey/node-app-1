@@ -1,0 +1,8 @@
+{
+  "name": "SJH Start on Heroku: Node.js",
+  "description": "A barebones Node.js app with Heap and Segment integration",
+  "repository": "https://github.com/shussey/node-app-1",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
